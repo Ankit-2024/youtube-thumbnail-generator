@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+package/
+*.zip
+
+# Node
+node_modules/
+build/
+.env
+.env.local
+
+# AWS
+.aws/
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
